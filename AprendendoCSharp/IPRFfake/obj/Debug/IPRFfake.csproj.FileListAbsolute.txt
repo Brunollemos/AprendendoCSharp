@@ -1,0 +1,8 @@
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFfake\bin\Debug\IPRFfake.exe.config
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFfake\bin\Debug\IPRFfake.exe
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFfake\bin\Debug\IPRFfake.pdb
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFfake\obj\Debug\IPRFfake.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFfake\obj\Debug\IPRFfake.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFfake\obj\Debug\IPRFfake.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFfake\obj\Debug\IPRFfake.exe
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFfake\obj\Debug\IPRFfake.pdb

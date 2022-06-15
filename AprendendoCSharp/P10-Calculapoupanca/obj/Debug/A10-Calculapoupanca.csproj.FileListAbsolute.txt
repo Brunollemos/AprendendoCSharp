@@ -1,0 +1,8 @@
+C:\Users\bruno\source\repos\AprendendoCSharp\P10-Calculapoupanca\bin\Debug\P10-Calculapoupanca.exe.config
+C:\Users\bruno\source\repos\AprendendoCSharp\P10-Calculapoupanca\bin\Debug\P10-Calculapoupanca.exe
+C:\Users\bruno\source\repos\AprendendoCSharp\P10-Calculapoupanca\bin\Debug\P10-Calculapoupanca.pdb
+C:\Users\bruno\source\repos\AprendendoCSharp\P10-Calculapoupanca\obj\Debug\A10-Calculapoupanca.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\P10-Calculapoupanca\obj\Debug\A10-Calculapoupanca.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\P10-Calculapoupanca\obj\Debug\A10-Calculapoupanca.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\P10-Calculapoupanca\obj\Debug\P10-Calculapoupanca.exe
+C:\Users\bruno\source\repos\AprendendoCSharp\P10-Calculapoupanca\obj\Debug\P10-Calculapoupanca.pdb

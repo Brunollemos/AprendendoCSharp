@@ -1,0 +1,8 @@
+C:\Users\bruno\source\repos\AprendendoCSharp\3-CriandoVariaveispontoflutuante\bin\Debug\3-CriandoVariaveispontoflutuante.exe.config
+C:\Users\bruno\source\repos\AprendendoCSharp\3-CriandoVariaveispontoflutuante\bin\Debug\3-CriandoVariaveispontoflutuante.exe
+C:\Users\bruno\source\repos\AprendendoCSharp\3-CriandoVariaveispontoflutuante\bin\Debug\3-CriandoVariaveispontoflutuante.pdb
+C:\Users\bruno\source\repos\AprendendoCSharp\3-CriandoVariaveispontoflutuante\obj\Debug\3-CriandoVariaveispontoflutuante.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\3-CriandoVariaveispontoflutuante\obj\Debug\3-CriandoVariaveispontoflutuante.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\3-CriandoVariaveispontoflutuante\obj\Debug\3-CriandoVariaveispontoflutuante.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\3-CriandoVariaveispontoflutuante\obj\Debug\3-CriandoVariaveispontoflutuante.exe
+C:\Users\bruno\source\repos\AprendendoCSharp\3-CriandoVariaveispontoflutuante\obj\Debug\3-CriandoVariaveispontoflutuante.pdb

@@ -1,0 +1,8 @@
+C:\Users\bruno\source\repos\AprendendoCSharp\1-atividade\bin\Debug\1-atividade.exe.config
+C:\Users\bruno\source\repos\AprendendoCSharp\1-atividade\bin\Debug\1-atividade.exe
+C:\Users\bruno\source\repos\AprendendoCSharp\1-atividade\bin\Debug\1-atividade.pdb
+C:\Users\bruno\source\repos\AprendendoCSharp\1-atividade\obj\Debug\1-atividade.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\1-atividade\obj\Debug\1-atividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\1-atividade\obj\Debug\1-atividade.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\1-atividade\obj\Debug\1-atividade.exe
+C:\Users\bruno\source\repos\AprendendoCSharp\1-atividade\obj\Debug\1-atividade.pdb

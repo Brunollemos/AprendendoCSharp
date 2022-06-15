@@ -1,0 +1,8 @@
+C:\Users\bruno\source\repos\AprendendoCSharp\B1-FOR\bin\Debug\B1-FOR.exe.config
+C:\Users\bruno\source\repos\AprendendoCSharp\B1-FOR\bin\Debug\B1-FOR.exe
+C:\Users\bruno\source\repos\AprendendoCSharp\B1-FOR\bin\Debug\B1-FOR.pdb
+C:\Users\bruno\source\repos\AprendendoCSharp\B1-FOR\obj\Debug\B1-FOR.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\B1-FOR\obj\Debug\B1-FOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\B1-FOR\obj\Debug\B1-FOR.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\B1-FOR\obj\Debug\B1-FOR.exe
+C:\Users\bruno\source\repos\AprendendoCSharp\B1-FOR\obj\Debug\B1-FOR.pdb

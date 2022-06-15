@@ -1,0 +1,8 @@
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFAtividade\bin\Debug\IPRFAtividade.exe.config
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFAtividade\bin\Debug\IPRFAtividade.exe
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFAtividade\bin\Debug\IPRFAtividade.pdb
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFAtividade\obj\Debug\IPRFAtividade.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFAtividade\obj\Debug\IPRFAtividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFAtividade\obj\Debug\IPRFAtividade.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFAtividade\obj\Debug\IPRFAtividade.exe
+C:\Users\bruno\source\repos\AprendendoCSharp\IPRFAtividade\obj\Debug\IPRFAtividade.pdb
